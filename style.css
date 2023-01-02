@@ -244,25 +244,25 @@ border: 2px solid yellowgreen;
     padding-top: 220px;
 }
 .html_css{
-    width: 400px;
-    height: 350px;
+    width: 300px;
+    height: 250px;
     text-align: center;
 }
 .c2{
-    width: 400px;
-    height: 350px;
+    width: 300px;
+    height: 250px;
     text-align: center;
 }
 .php{
-    width: 400px;
-    height: 350px;
+    width: 300px;
+    height: 250px;
     text-align: center;
 }
 .php_text, .c2_text, .html_css_text, python_text{
     font-size: 20px;
 }
 .python{
-    width: 400px;
-    height: 350px;
+    width: 300px;
+    height: 250px;
     text-align: center;
 }
