@@ -207,11 +207,62 @@ header {
 }
 
 .imgbook {
-    wi
+    width: 100px;
+    height: 200px;
+    position: relative;
+    
     
 
 }
+.enthusiasm{
+    
+border: 2px solid yellowgreen;
+}
+
+
+
+.imgprogramm{
+    width: 110px;
+    height: 200px;
+    position: relative;
+
+}
+.programm{
+    float: right;
+    margin-right: 0%;
+    margin-left: 0%;
+}
 .book2{
-    border: 1px groove rgb(238, 102, 125);
-    border-radius: 5px;
+    margin-left: 0%;
+    margin-right: 0%;
+    float: left;
+
+}
+
+.myprogramm{
+    position:absolute;
+    padding-top: 220px;
+}
+.html_css{
+    width: 400px;
+    height: 350px;
+    text-align: center;
+}
+.c2{
+    width: 400px;
+    height: 350px;
+    text-align: center;
+}
+.php{
+    width: 400px;
+    height: 350px;
+    text-align: center;
+}
+.php_text, .c2_text, .html_css_text, python_text{
+    font-size: 20px;
+}
+.python{
+    width: 400px;
+    height: 350px;
+    text-align: center;
 }
