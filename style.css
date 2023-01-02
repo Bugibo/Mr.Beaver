@@ -269,6 +269,5 @@ border: 2px solid yellowgreen;
     text-align: center;
 }
 .python, .php, .c2, .html_css, .php_text, .c2_text, .html_css_text, python_text{
-    position: absolute;
     padding-top: 20px;
 }
