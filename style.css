@@ -260,6 +260,8 @@ border: 2px solid yellowgreen;
 }
 .php_text, .c2_text, .html_css_text, python_text{
     font-size: 20px;
+    position: absolute;
+    padding-left: 145px;
 }
 .python{
     width: 300px;
