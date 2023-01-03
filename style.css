@@ -274,6 +274,7 @@ border: 2px solid yellowgreen;
 .hrefup{
     width: 50px;
     height: 50px;
+    
     position: fixed;
     right: 0%;
     bottom: 0%;
@@ -285,4 +286,35 @@ border: 2px solid yellowgreen;
     bottom: 0%;
     top: 50%;
     text-decoration: none;
+}
+.imgbook, .imgprogramm, .python, .php, .c2, .html_css{
+    
+    mmargin-top: 20px;
+}
+
+.imgbook:hover{
+    box-shadow: -20px 10px 9px yellow;
+
+}
+
+.imgprogramm:hover{
+    box-shadow: -20px 10px 9px yellow;
+
+}
+.html_css:hover{
+    box-shadow: -20px 10px 9px yellow;
+
+}
+.c2:hover{
+    box-shadow: -20px 10px 9px yellow;
+
+}
+.php:hover{
+    box-shadow: -20px 10px 9px yellow;
+
+}
+
+.python:hover{
+    box-shadow: -20px 10px 9px yellow;
+
 }
